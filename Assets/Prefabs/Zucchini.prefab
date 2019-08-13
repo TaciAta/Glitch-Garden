@@ -10,6 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 7962719457815714951}
   - component: {fileID: 6887536319658025608}
+  - component: {fileID: 4819143615753819631}
+  - component: {fileID: 1086177123200188253}
+  - component: {fileID: 2928472424971772787}
   m_Layer: 0
   m_Name: Zucchini
   m_TagString: Untagged
@@ -80,3 +83,78 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &4819143615753819631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115122391344682445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9bf26f665a1d934e91d24739997afb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectileSpeed: 6.75
+  projectileDamage: 100
+--- !u!60 &1086177123200188253
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115122391344682445}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32941177, y: 0.32941177}
+    newSize: {x: 0.56, y: 0.56}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.11093938, y: 0.17289221}
+      - {x: -0.15426779, y: 0.15427268}
+      - {x: -0.16931927, y: 0.11624336}
+      - {x: -0.16470589, y: 0.07647059}
+      - {x: -0.14705883, y: 0.05882353}
+      - {x: -0.07187033, y: 0.04069209}
+      - {x: 0.009357572, y: -0.012182951}
+      - {x: 0.10627782, y: -0.16370946}
+      - {x: 0.14872742, y: -0.15809268}
+      - {x: 0.17050481, y: -0.12936532}
+      - {x: 0.16905487, y: -0.096735716}
+      - {x: 0.15732992, y: -0.06199658}
+      - {x: 0.12865257, y: -0.011585832}
+      - {x: 0.05659163, y: 0.07427442}
+      - {x: -0.03546095, y: 0.14615786}
+--- !u!50 &2928472424971772787
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115122391344682445}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
