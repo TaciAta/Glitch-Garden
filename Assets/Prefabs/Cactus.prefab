@@ -86,7 +86,7 @@ GameObject:
   - component: {fileID: 3386251262339370148}
   - component: {fileID: 3386251262339370149}
   - component: {fileID: 3386251262339370150}
-  - component: {fileID: 3386251262339370151}
+  - component: {fileID: 1739374656}
   m_Layer: 0
   m_Name: Cactus Body
   m_TagString: Untagged
@@ -178,7 +178,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &3386251262339370151
+--- !u!114 &1739374656
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
