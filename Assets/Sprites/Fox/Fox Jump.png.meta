@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 63e5e16bb65f3d44f8207814934ff0a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3574847051743030441
+    second: Fox Jump_0
+  - first:
+      213: -4825974039586952881
+    second: Fox Jump_1
+  - first:
+      213: -8049898823471573670
+    second: Fox Jump_2
+  - first:
+      213: 2018178189912915148
+    second: Fox Jump_3
+  - first:
+      213: -2755340144835460296
+    second: Fox Jump_4
+  - first:
+      213: 3482572464398073299
+    second: Fox Jump_5
+  - first:
+      213: 4236267675253303970
+    second: Fox Jump_6
+  - first:
+      213: 4945806229976530522
+    second: Fox Jump_7
+  - first:
+      213: 1684972804003008202
+    second: Fox Jump_8
+  - first:
+      213: -7634059773975050168
+    second: Fox Jump_9
+  - first:
+      213: -5274253688197188781
+    second: Fox Jump_10
+  - first:
+      213: -2014802332116763029
+    second: Fox Jump_11
+  - first:
+      213: -8542986598768599023
+    second: Fox Jump_12
+  - first:
+      213: 1895851617272342781
+    second: Fox Jump_13
+  - first:
+      213: 8759160383606020271
+    second: Fox Jump_14
+  - first:
+      213: 3567572022897867947
+    second: Fox Jump_15
+  - first:
+      213: 2789166413554905566
+    second: Fox Jump_16
+  - first:
+      213: -1784994958234630845
+    second: Fox Jump_17
+  - first:
+      213: 6043662283957070822
+    second: Fox Jump_18
+  - first:
+      213: 7968785280044236153
+    second: Fox Jump_19
+  - first:
+      213: 5836492112489044017
+    second: Fox Jump_20
+  - first:
+      213: 5120210764112384961
+    second: Fox Jump_21
+  - first:
+      213: 7087334483648362703
+    second: Fox Jump_22
+  - first:
+      213: -916961800633767298
+    second: Fox Jump_23
+  - first:
+      213: 4209958018717634995
+    second: Fox Jump_24
+  - first:
+      213: 453941256070748476
+    second: Fox Jump_25
+  - first:
+      213: 3996573758587980212
+    second: Fox Jump_26
+  - first:
+      213: 7527401686257822748
+    second: Fox Jump_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 133
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fox Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05618f77ab3f1bf40b48f4a4c1667f59
+      internalID: 3574847051743030441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 557
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4fd67786882be498a42ab8dc4a826c
+      internalID: -4825974039586952881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 557
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cee9921d1e548c45a7280a2aee9b7d7
+      internalID: -8049898823471573670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 557
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae4221df1c1c04fbb2da36c99c04fd
+      internalID: 2018178189912915148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 557
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56276e67738ed48bbc5591abcc9d0b
+      internalID: -2755340144835460296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 557
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ab59f99248e447938f7d1f95f7580
+      internalID: 3482572464398073299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905370d2780c5664eaa67fef861e8f40
+      internalID: 4236267675253303970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 419
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087647def3210b24bbdeee34930c511d
+      internalID: 4945806229976530522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 419
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de99e9f87003e043ac767c72157f3a9
+      internalID: 1684972804003008202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 419
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f6a0329e51dc48920f490d5cde1b4
+      internalID: -7634059773975050168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 419
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6242ea42b6eba45a4df293f51520a2
+      internalID: -5274253688197188781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 419
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4615144d432704f4fbd4343eba8e9d3d
+      internalID: -2014802332116763029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de994a2b117db4e4f8749aa1e05fbef1
+      internalID: -8542986598768599023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 281
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9831ad392c1caf04a8bbf22fbdadd61f
+      internalID: 1895851617272342781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 281
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1135bba5ed4b4f8d699159abd6738
+      internalID: 8759160383606020271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 281
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c1f412d4f8b54db89ba00e1312904
+      internalID: 3567572022897867947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 281
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667a0393cdd97494fb5fad19b742128d
+      internalID: 2789166413554905566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 281
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc270f93ce9a69d498847f5a5a456a7d
+      internalID: -1784994958234630845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa68e625d36dfb846aaf026c1958a8fb
+      internalID: 6043662283957070822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 143
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc021bac78be8c42afeb801620f7461
+      internalID: 7968785280044236153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 143
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca6d2e5a09af1459afbcf6e00bd966
+      internalID: 5836492112489044017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 143
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5112828c46d1e14398de833d8f17362
+      internalID: 5120210764112384961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 143
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72f3fa62f25f449887d3a285fba087
+      internalID: 7087334483648362703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 143
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eec91ce486d9f4191f82bb2a45e5ed
+      internalID: -916961800633767298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d5aacb9a02b644aaec5da491a2416
+      internalID: 4209958018717634995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0394ea158d7c0f4888929ad73940cb5
+      internalID: 453941256070748476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43004814fc1925546b890c1de8a3f426
+      internalID: 3996573758587980212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox Jump_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84de9f2ec0ed7784f999d29bd1ac887a
+      internalID: 7527401686257822748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
